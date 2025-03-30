@@ -1,4 +1,4 @@
-// Package.json for server dependencies
+
 {
   "name": "chatsites-portal-server",
   "version": "1.0.0",
